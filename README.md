@@ -1,1 +1,3 @@
-# Landing-Page : https://j-as0n.github.io/Landing-Page/
+# Landing-Page
+
+Website: https://j-as0n.github.io/Landing-Page/
